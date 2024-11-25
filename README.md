@@ -1,2 +1,2 @@
 # shell-scripting
-Basic shell-scripting-commands
+shell-scripting-commands
